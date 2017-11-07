@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1489832234 source:h:\others\my all programs\c++\stl for lab assignment 18.03.2017\main.cpp
+	<iostream>
+	<vector>
+	<map>
+

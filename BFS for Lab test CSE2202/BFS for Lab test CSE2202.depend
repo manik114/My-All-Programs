@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1507874128 source:h:\others\my all programs\c++\bfs for lab test cse2202\main.cpp
+	<iostream>
+	<vector>
+	<queue>
+

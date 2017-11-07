@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1475486605 source:h:\others\my all programs\c++\hq9+\main.cpp
+	<iostream>
+	<string>
+	<string.h>
+

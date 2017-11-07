@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1500370563 source:h:\others\my all programs\c++\for final exam\main.cpp
+	<iostream>
+	<assert.h>
+	<vector>
+	<math.h>
+	"pointer.h"
+	"creature.h"
+
+1500370606 h:\others\my all programs\c++\for final exam\include\pointer.h
+	<iostream>
+
+1500370509 h:\others\my all programs\c++\for final exam\include\creature.h
+	<iostream>
+

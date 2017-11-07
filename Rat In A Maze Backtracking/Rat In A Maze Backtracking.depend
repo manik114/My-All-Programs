@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1509385401 source:h:\others\my all programs\c++\rat in a maze backtracking\main.cpp
+	<iostream>
+	<stdio.h>
+

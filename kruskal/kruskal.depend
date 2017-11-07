@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1505757932 source:h:\others\my all programs\c++\kruskal\main.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+	<stdio.h>
+	<bits/stdc++.h>
+

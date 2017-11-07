@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1505296488 source:h:\others\my all programs\c++\spoj shop\main.cpp
+	<iostream>
+	<vector>
+	<queue>
+

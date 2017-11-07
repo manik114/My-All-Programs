@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1503772635 source:h:\others\my all programs\c++\reversing a string\main.cpp
+	<iostream>
+	<strings.h>
+	<deque>
+	<stdio.h>
+
